@@ -1,1 +1,1 @@
-# widget
+# WidgetZ - Simple Screen Themes
